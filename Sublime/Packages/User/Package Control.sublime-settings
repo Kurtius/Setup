@@ -1,0 +1,18 @@
+{
+	"installed_packages":
+	[
+		"GitGutter",
+		"LESS",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"Theme - Phoenix",
+		"Theme - Soda",
+		"Tomorrow Color Schemes",
+		"WordCount"
+	]
+}
